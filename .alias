@@ -1,6 +1,7 @@
+# Tmux Aliases
 alias tma="tmux attach -t "
 alias tmk="tmux kill-session -t "
 alias tmn="tmux new-session -A -s "
 alias tls="tmux ls"
-alias ilp-up="tmuxinator start ilp"
+# Custom Aliases
 alias f="fuck"
